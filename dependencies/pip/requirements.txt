@@ -35,7 +35,7 @@ django-ses==0.7.1
 django-taggit==0.22.0
 django-toolbelt==0.0.1
 django-webpack-loader==0.3.0
-django==1.8.13
+django==3.2.15
 djangorestframework==3.3.3
 docutils==0.12            # via statistics
 drf-extensions==0.3.1
@@ -49,7 +49,7 @@ jinja2==2.8               # via pyexcelerate
 jsonfield==1.0.3
 jsonschema==2.5.1
 kombu==3.0.35
-lxml==2.3.4
+lxml==4.9.1
 markdown==2.6.6
 markupsafe==0.23          # via jinja2
 ndg-httpsclient==0.4.2
