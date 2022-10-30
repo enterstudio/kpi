@@ -35,8 +35,8 @@ django-ses==0.7.1
 django-taggit==0.22.0
 django-toolbelt==0.0.1
 django-webpack-loader==0.3.0
-django==1.8.13
-djangorestframework==3.3.3
+django==3.2.15
+djangorestframework==3.11.2
 docutils==0.12            # via statistics
 drf-extensions==0.3.1
 enum34==1.1.6             # via cryptography
