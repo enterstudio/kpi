@@ -45,11 +45,11 @@ functools32==3.2.3.post2  # via jsonschema
 gunicorn==19.4.5
 idna==2.1                 # via cryptography
 ipaddress==1.0.17         # via cryptography
-jinja2==2.8               # via pyexcelerate
+jinja2==2.11.3               # via pyexcelerate
 jsonfield==1.0.3
 jsonschema==2.5.1
 kombu==3.0.35
-lxml==2.3.4
+lxml==4.9.1
 markdown==2.6.6
 markupsafe==0.23          # via jinja2
 ndg-httpsclient==0.4.2
