@@ -13,7 +13,7 @@ appdirs==1.4.0            # via setuptools
 begins==0.9
 billiard==3.3.0.23
 boto==2.40.0
-celery==3.1.23
+celery==4.4.0rc5
 cffi==1.8.3               # via cryptography
 cryptography==1.5.2       # via pyopenssl
 cssselect==0.9.2          # via pyquery
