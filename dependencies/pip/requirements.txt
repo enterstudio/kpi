@@ -62,7 +62,7 @@ pyasn1==0.1.9
 pycparser==2.14           # via cffi
 PyExcelerate==0.6.7
 pygments==2.1.3
-pymongo==3.3.0
+pymongo==4.6.3
 pyopenssl==16.1.0
 pyparsing==2.1.10         # via packaging
 pyquery==1.2.11
