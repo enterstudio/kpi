@@ -43,7 +43,7 @@ enum34==1.1.6             # via cryptography
 funcsigs==1.0.2           # via begins
 functools32==3.2.3.post2  # via jsonschema
 gunicorn==19.4.5
-idna==2.1                 # via cryptography
+idna==3.7                 # via cryptography
 ipaddress==1.0.17         # via cryptography
 jinja2==2.8               # via pyexcelerate
 jsonfield==1.0.3
