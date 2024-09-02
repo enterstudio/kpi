@@ -42,7 +42,7 @@ drf-extensions==0.3.1
 enum34==1.1.6             # via cryptography
 funcsigs==1.0.2           # via begins
 functools32==3.2.3.post2  # via jsonschema
-gunicorn==19.4.5
+gunicorn==21.2.0
 idna==2.1                 # via cryptography
 ipaddress==1.0.17         # via cryptography
 jinja2==2.8               # via pyexcelerate
