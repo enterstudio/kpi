@@ -58,7 +58,7 @@ packaging==16.8           # via setuptools
 path.py==8.1.2
 psycopg2==2.6.1
 py==1.4.31                # via pytest
-pyasn1==0.1.9
+pyasn1==0.6.2
 pycparser==2.14           # via cffi
 PyExcelerate==0.6.7
 pygments==2.1.3
